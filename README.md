@@ -1,5 +1,5 @@
-# Rice
+## Rice
 
-## This Repo Has my GNOME and KDE plasma 6 rices 
+This Repo Has my GNOME and KDE plasma 6 rices 
 
-## as of now its just my fastfetch config
+as of now its just my fastfetch config
